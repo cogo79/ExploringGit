@@ -10,3 +10,4 @@ http://msysgit.github.io/
 
 Check this out:
 http://vogella.com/
+https://www.microsoftvirtualacademy.com/
