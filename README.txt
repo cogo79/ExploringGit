@@ -1,3 +1,8 @@
+This project is just my little sandbox for playing and trying out different commands with Git.
+
+
+
+
 Delete a remote branch:
 git push origin :myRemoteBranchThatIWantToDelete
 
