@@ -11,7 +11,7 @@ git config --global alias.lga "log --graph --oneline --all --decorate"
 to run this shortcut simply enter "git lga"
 
 Make branch point to previous commit:
-git reset --hard a70b980
+git reset a70b980
 
 Install git for Microsoft Windows:
 http://msysgit.github.io/
