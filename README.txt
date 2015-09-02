@@ -6,6 +6,9 @@ This project is just my little sandbox for playing and trying out different comm
 Delete a remote branch:
 git push origin :myRemoteBranchThatIWantToDelete
 
+Delete a local branch:
+git branch -d myBranch
+
 Create a shortcut command for showing a graph of commit history
 git config --global alias.lga "log --graph --oneline --all --decorate"
 to run this shortcut simply enter "git lga"
