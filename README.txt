@@ -16,6 +16,9 @@ to run this shortcut simply enter "git lga"
 Make branch point to previous commit:
 git reset a70b980
 
+Fix if Git tracks a file that is in .gitignore file:
+git rm --cached file.txt
+
 Install git for Microsoft Windows:
 http://msysgit.github.io/
 
