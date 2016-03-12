@@ -15,6 +15,10 @@ to run this shortcut simply enter "git lga"
 
 Make branch point to previous commit:
 git reset a70b980
+or:
+git checkout master
+git reset --hard e3f1e37
+git push --force origin master
 
 Fix if Git tracks a file that is in .gitignore file:
 git rm --cached file.txt
@@ -28,3 +32,6 @@ https://www.microsoftvirtualacademy.com/
 
 Bra grejer:
 Sequel pro, http://www.sequelpro.com/
+
+Updatera Node.js:
+https://davidwalsh.name/upgrade-nodejs
